@@ -12,4 +12,4 @@
 
 ##Diagrama de Flujo de Datos
 
-![Sin titulo]((http://i64.tinypic.com/10qdoh0.jpg )
+![Sin titulo](http://i64.tinypic.com/10qdoh0.jpg )
